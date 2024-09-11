@@ -4,4 +4,4 @@
 
 or
 
-git@github.com:OuyangXuanyu/_VSCode_Rust.git
+[git](git@github.com:OuyangXuanyu/_VSCode_Rust.git)
