@@ -16,7 +16,7 @@ Step 2 Generate a key so that the local git could have power to access your gith
 
 Step 3 Make a repository, give a name and record the https or git@github
 
-Step 4 To indentify your local explorer you wanna upload, do these commends in you bash(window in cmd/powershell or Linux in sh)
+Step 4 To indentify your local explorer you wanna upload, do these commends in you bash(cmd/powershell in Windows or sh in Linux)
 
 ```bash
 git init  # init you explorer
