@@ -1,4 +1,4 @@
-# _VSCode_Rust  (Learning)
+# _VSCode_Rust  (Learning on Runoob)
 
 [https](https://github.com/OuyangXuanyu/_VSCode_Rust.git)
 
@@ -25,4 +25,9 @@ git commit -m "your comment in this version"  # make it ready for uploading
 git remote add origin https://github.com/your-username/your-repo.git  # add location website
 git push origin master  # do the final step
 ```
+
+but how to use rust to generate an exe document
+so this is a proj that i used for learning rust
+
+
 
