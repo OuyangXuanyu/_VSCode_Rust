@@ -32,7 +32,6 @@ or the second time and then:
 ```bash
 git add . # renew the file you wannna update
 git commit -m "comment"
-git remote add origin https://github.com/your-username/your-repo.git  # add location website
 git push origin master  # do the final step
 ```
 
